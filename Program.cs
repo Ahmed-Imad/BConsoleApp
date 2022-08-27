@@ -4,7 +4,7 @@ using Microsoft.Extensions.Hosting;
 using Serilog;
 using System;
 using System.IO;
-// Dependency Injection, Serilog (logging), Settings Tamplete for Console App projects
+// Dependency Injection, Serilog (logging), Settings Tamplete for Console App projects.
 namespace BConsoleApp
 {
     public class Program
